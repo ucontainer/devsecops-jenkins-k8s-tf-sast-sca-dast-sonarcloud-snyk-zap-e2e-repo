@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ucontain
-        image: 753770582481.dkr.ecr.us-east-1.amazonaws.com/acontainer
+        image: 753770582481.dkr.ecr.us-east-1.amazonaws.com/zcontainer
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
